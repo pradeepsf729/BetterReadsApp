@@ -1,4 +1,4 @@
-## BetterReads App hosts large number of book inventory which provides the ability for user to track the books reading status, search for any book, and list author details of any book. Inspired from [here]https://www.goodreads.com/ :)
+## BetterReads App hosts large number of book inventory which provides the ability for user to track the books reading status, search for any book, and list author details of any book. Inspired from [here](https://www.goodreads.com/) :)
 
 #### The non functional requirements or the goals of this app from the application and learning perspective can be
 
